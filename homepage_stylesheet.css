@@ -7,5 +7,6 @@
     color: #FF0000;
 }
 .image {
-    length: 300px;
+    length: 100px;
+    height: auto;
 }
